@@ -11,3 +11,7 @@
 
 </nav>
  </div>
+ <div class="home">
+  <p>Teacher really beautiful :)
+  </p>
+</div>
