@@ -8,7 +8,7 @@
 
 <button class="tablinks" ><a href="home.html">Home</a></button>
 
-<button class="tablinks"><a href="about.md">About</a></button>
+<button class="tablinks"><a href="about.html">About</a></button>
 
 </nav>
  </div>
